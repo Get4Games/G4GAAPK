@@ -1,0 +1,46 @@
+{
+  "name": "get4games.com",
+  "short_name": "Get4Games",
+  "start_url": "https://www.get4games.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "description": "Güncel Oyun Haberleri",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhfaXBDfjgAX2-2kT6ljxhBKG2TFxk3gGHEHElIzQup_tIrFBCpn71oPf2XzlBAyt_3ZhK7YCMseXrGzpNCjCN17L0wdcbOCrwtKdnw1x2dP28dKXLINNGywD9e6ZYksLgWCbcYR_OpQHx2PfrkdS5u_slQrloSs_RGt3Tdiymqlzez6rGfZg1XVTrlow=s48",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEimQ4pWUJY7zgy5mFMImr5jGQq9RvNbUDun6K9gCGJLJfY80O6YLhSmpPwN4QW6i100zJTS6aGyE327uNpnrP5yexjX5REWyfTi3LzemKzZdpG38Xy5JUOqm-R_mGxmKtgUy1fOVP3hZ4dZk8TnjhGHCIQ_BmlX5Rm8VihMlllUHzbhLAGY2AUH3PhLCw=s72",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEj9SJa5qr0DJr_a5bVTnzDdvT04KLbiZa_b0bt4TD3JVJ27qk9_dtzuwmS_9FTGTMoWs5EM5_Gmk1xHKuv-zJ5hHeLNpoFzqjXKm-gdtlEJE3sGbM_KybL9HJIP-xZVhXQsHhTbEsYUWClAbVLQHbnjZXr8s6yJ3Ngb_VzcW-4QFCguFlPpmiNJsNh5uA=s96",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEi4cvXBKPj1iY8smTvz1F3z8HRg-h3K6unlvvV9Ksr8JhBBU_GXZiqfBZlU2Lkhp_QEDk-TPlN2q1pG99Kl1tDbIl4aJfePbNX_6BhKNHXI1bNIQKC1b2r45zjiJZ880dA0YJ_Gvvvx5lKeouby-K0_BJV_LK_Ky6wVNpihJFBgigjQKIiB9rxXOfN6_A=s144",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhFTSQbmeADLt2R8giSK4OTKyJXyBo9rI_VV2dupd-9Tq-XUin88jARZ4IP4M6shf85MPWZgDJ6Sned7iRnf56lmhnrdrZ5igFQuL4GQuqLRXYo94k9ZXNU-hynB9LT-xaMn9P_L1LUtnYzQ8NN-8Bh4-ZSSINo_37w-2vA1Gz9n47blgh4ri5GC8qZwg=s168",
+      "sizes": "168x168",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgM6hTsYrdgzyuKstpKumvULHclh679kQJpRYVhJ-S2QC9balaJ_uyqcZaKC94Rjd-bXyN501FXIt4m_xS8swTiBltcS5goffCWUty95dzcHbtCq88RuxPxFlI1T5ed2q0pkXl3visRFHgGIbmVHhg4k1huOvO-EmAI2NOWqbPNJS6wkCQe4PTXpzHY8w=s192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEg4mtyg9A-l8RfR1KlIDXBAO5y31TGT0bYW08bfBXjboyyAoLenDvYqnpExo2B656f6m1H36Ic0rOq9DOcZm6FqnIlODEw91Y5eeNERw07u8Tok-Y3KKbJf9b_rOsNXLVkiVqsogfm0RwVfd3suyXDenGGV0Rh-YD81M4pkFIWEVXqrMh2h0aVJ-5VHuw=s512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
