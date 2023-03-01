@@ -1,5 +1,5 @@
 {
-  "name": "get4games.com",
+  "name": "Get4Games - Oyun Haberleri",
   "short_name": "Get4Games",
   "start_url": "https://www.get4games.com/",
   "display": "standalone",
