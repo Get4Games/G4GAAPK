@@ -42,5 +42,11 @@
       "sizes": "512x512",
       "type": "image/png"
     }
+  ],
+  "lang": "tr",
+  "categories": [
+    "entertainment",
+    "games",
+    "news"
   ]
 }
